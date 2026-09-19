@@ -47,7 +47,7 @@ DHT11 sensor ----------------------> ESP32 --------> LCD1602
 4. The ESP32 updates the LCD with indoor and outdoor weather information.
 
 ## Project Photo
-![alt text](image.png)
+![alt text](weather_station.png)
 
 ## Setup Notes
 
